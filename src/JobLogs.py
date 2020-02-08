@@ -30,7 +30,7 @@ class JobAuditing:
         elif job_name == 'END':
             self.endBatchId()
 
-
+a
     def endBatchId(self):
         runningBatchId = self.getCurrentBatchId()
         if runningBatchId == None:
