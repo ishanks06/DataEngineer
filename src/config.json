@@ -1,0 +1,11 @@
+{
+  "schema": "audit",
+  "TBL_JobLoadStatus": "dataloadprocess",
+  "TBL_DataQualityStats": "dataquality",
+  "TBL_BatchLoadStatus": "BatchLoadProcess",
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password"
+  }
+}
